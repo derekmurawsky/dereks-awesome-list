@@ -5,8 +5,8 @@ repos:
     name: Awesome Lint
     description: Runs awesome-lint on the README.md file
     language: system
-    entry: npx awesome-lint -q README.md
-    types: [markdown]
+    entry: npx awesome-lint -q
+    files: README.md
   - id: markdownlint-docker
     name: Markdown Lint
     description: Runs markdownlint-cli in a docker container
