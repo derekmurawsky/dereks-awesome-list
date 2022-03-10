@@ -57,7 +57,9 @@ There are many great awesome lists. These are a few of them.
 <!-- omit in toc -->
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/derekmurawsky/dereks-awesome-list/graphs/contributors)!
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- omit in toc -->
 ### Thanks
