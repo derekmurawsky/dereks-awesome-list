@@ -25,7 +25,8 @@ An awesome list of things I like and have found useful
 - [Development Tools](#development-tools)
 - [Documentation](#documentation)
 - [Open Source Best Practices](#open-source-best-practices)
-- [Software Supply Chain Security](#software-supply-chain-security)
+- [Security](#security)
+  - [Software Supply Chain Security](#software-supply-chain-security)
 - [Contributors ✨](#contributors-)
 <!--lint enable double-link -->
 ## Awesome Lists
@@ -74,7 +75,12 @@ There are many great awesome lists. These are a few of them.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages.
 - [Open Source Security Foundation](https://openssf.org/) - Group dedicated to securing the open source ecosystem.
 
-## Software Supply Chain Security
+## Security
+
+- [SPIFFE](https://spiffe.io/) - SPIFFE, the Secure Production Identity Framework for Everyone, is a set of open-source standards for securely identifying software systems in dynamic and heterogeneous environments.
+- [SPIRE](https://github.com/spiffe/spire) - SPIRE is a production-ready implementation of the SPIFFE APIs that performs node and workload attestation in order to securely issue SVIDs to workloads, and verify the SVIDs of other workloads, based on a predefined set of conditions.
+
+### Software Supply Chain Security
 
 - [DSSE](https://github.com/secure-systems-lab/dsse) - Simple, foolproof standard for signing arbitrary data.
 - [GitLeaks](https://github.com/zricethezav/gitleaks) - Gitleaks is a SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos.
