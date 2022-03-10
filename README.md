@@ -58,8 +58,11 @@ There are many great awesome lists. These are a few of them.
 ### Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- omit in toc -->
 ### Thanks
@@ -69,4 +72,4 @@ Additional thanks goes out to:
 - [jthegedus](https://github.com/jthegedus) for his [awesome-list-template](https://github.com/jthegedus/awesome-list-template)
 - [sindresorhus](https://github.com/sindresorhus) for creating the idea of the [awesome list](https://github.com/sindresorhus/awesome) itself
 
-<!-- markdownlint-disable-file MD013 MD033 MD041 -->
+<!-- markdownlint-disable-file MD033 MD041 MD013 -->
