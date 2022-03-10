@@ -57,10 +57,6 @@ There are many great awesome lists. These are a few of them.
 
 ## Contributors ✨
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -80,11 +76,3 @@ There are many great awesome lists. These are a few of them.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-<!-- omit in toc -->
-### Thanks
-
-Additional thanks goes out to:
-<!--lint ignore double-link -->
-- [jthegedus](https://github.com/jthegedus) for his [awesome-list-template](https://github.com/jthegedus/awesome-list-template)
-- [sindresorhus](https://github.com/sindresorhus) for creating the idea of the [awesome list](https://github.com/sindresorhus/awesome) itself
