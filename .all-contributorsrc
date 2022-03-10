@@ -45,6 +45,17 @@
         "ideas",
         "tool"
       ]
+    },
+    {
+      "login": "alexlapinski",
+      "name": "Alex Lapinski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37541?v=4",
+      "profile": "http://alexlapinski.name",
+      "contributions": [
+        "ideas",
+        "tool",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
