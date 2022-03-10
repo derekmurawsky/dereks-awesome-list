@@ -25,6 +25,16 @@
         "tutorial",
         "example"
       ]
+    },
+    {
+      "login": "sindresorhus",
+      "name": "Sindre Sorhus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4",
+      "profile": "https://sindresorhus.com/apps",
+      "contributions": [
+        "ideas",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
