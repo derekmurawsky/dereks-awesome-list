@@ -8,7 +8,7 @@
 <!--lint disable double-link -->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml/badge.svg)](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml) [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!--lint enable double-link -->
 <!-- subtitle -->
@@ -70,6 +70,7 @@ There are many great awesome lists. These are a few of them.
     <td align="center"><a href="https://jthegedus.medium.com/"><img src="https://avatars.githubusercontent.com/u/20798510?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Hegedus</b></sub></a><br /><a href="#tool-jthegedus" title="Tools">🔧</a> <a href="#tutorial-jthegedus" title="Tutorials">✅</a> <a href="#example-jthegedus" title="Examples">💡</a></td>
     <td align="center"><a href="https://sindresorhus.com/apps"><img src="https://avatars.githubusercontent.com/u/170270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sindre Sorhus</b></sub></a><br /><a href="#ideas-sindresorhus" title="Ideas, Planning, & Feedback">🤔</a> <a href="#example-sindresorhus" title="Examples">💡</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#ideas-all-contributors" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tool-all-contributors" title="Tools">🔧</a></td>
+    <td align="center"><a href="http://alexlapinski.name"><img src="https://avatars.githubusercontent.com/u/37541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alex Lapinski</b></sub></a><br /><a href="#ideas-alexlapinski" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tool-alexlapinski" title="Tools">🔧</a> <a href="#mentoring-alexlapinski" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
