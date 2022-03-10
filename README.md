@@ -1,4 +1,7 @@
 <!--lint ignore no-dead-urls awesome-git-repo-age -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align="center">
 
 <!-- title -->
@@ -62,6 +65,17 @@ There are many great awesome lists. These are a few of them.
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.theendofthetunnel.org"><img src="https://avatars.githubusercontent.com/u/3741839?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Derek Murawsky</b></sub></a><br /><a href="#content-derekmurawsky" title="Content">🖋</a> <a href="#design-derekmurawsky" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- omit in toc -->
@@ -73,3 +87,16 @@ Additional thanks goes out to:
 - [sindresorhus](https://github.com/sindresorhus) for creating the idea of the [awesome list](https://github.com/sindresorhus/awesome) itself
 
 <!-- markdownlint-disable-file MD033 MD041 MD013 -->
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
