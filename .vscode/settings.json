@@ -3,10 +3,14 @@
         "cheatsheets",
         "compatiblelicenses",
         "creativecommons",
+        "DSSE",
+        "Hadolint",
         "hostable",
         "jthegedus",
         "Selfhosted",
         "sindresorhus",
-        "sublicensable"
+        "SLSA",
+        "sublicensable",
+        "Trivy"
     ]
 }

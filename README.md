@@ -9,7 +9,7 @@
 <!--lint enable double-link -->
 <!-- subtitle -->
 
-An awesome list of things I like
+An awesome list of things I like and have found useful
 
 </div>
 
@@ -18,6 +18,7 @@ An awesome list of things I like
 
 - [Awesome Lists](#awesome-lists)
 - [Containers](#containers)
+- [Software Supply Chain Security](#software-supply-chain-security)
 
 ## Awesome Lists
 
@@ -35,6 +36,14 @@ There are many great awesome lists. These are a few of them.
 - [Microsoft Container Tagging Recommendations](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-image-tag-version) - Recommendations on container tags from Microsoft.
 - [OCI Container Annotations](https://github.com/opencontainers/image-spec/blob/main/annotations.md) - A list of container annotations (labels) recommended by the [Open Container Initiative](https://opencontainers.org/).
 - [Trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues.
+
+## Software Supply Chain Security
+
+- [DSSE](https://github.com/secure-systems-lab/dsse) - Simple, foolproof standard for signing arbitrary data.
+- [in-toto](https://in-toto.io/) - A framework to secure the integrity of software supply chains. in-toto is designed to ensure the integrity of a software product from initiation to end-user installation. It does so by making it transparent to the user what steps were performed, by whom and in what order.
+- [in-toto Attestations](https://github.com/in-toto/attestation) - This repository defines the in-toto attestation format, which represents authenticated metadata about a set of software artifacts.
+- [SLSA](https://slsa.dev/) - Supply chain Levels for Software Artifacts, or SLSA (salsa). It's a security framework, a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises.
+- [TUF](https://theupdateframework.io/) - A framework for securing software update systems. The Update Framework (TUF) helps developers maintain the security of software update systems, providing protection even against attackers that compromise the repository or signing keys.
 
 <!-- omit in toc -->
 ## Contributing
