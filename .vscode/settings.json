@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
         "alexlapinski",
+        "BEIPA",
         "cheatsheets",
         "compatiblelicenses",
         "creativecommons",
+        "Direnv",
         "DSSE",
+        "filesystems",
+        "Gitleaks",
+        "Graphile",
+        "Grype",
         "Hadolint",
         "Hegedus",
         "hostable",
@@ -13,12 +19,21 @@
         "Lapinski",
         "markdownlint",
         "Murawsky",
+        "Noco",
+        "OWASP",
+        "pluggable",
+        "Postg",
+        "SAST",
+        "SBOM",
         "Selfhosted",
         "Sindre",
         "sindresorhus",
+        "Skopeo",
         "SLSA",
         "Sorhus",
         "sublicensable",
+        "Syft",
+        "Tini",
         "Trivy"
     ]
 }
