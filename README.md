@@ -17,6 +17,7 @@ An awesome list of things I like and have found useful
 ## Contents
 
 - [Awesome Lists](#awesome-lists)
+- [Development Tools](#development-tools)
 - [Containers](#containers)
 - [Software Supply Chain Security](#software-supply-chain-security)
 
@@ -29,6 +30,10 @@ There are many great awesome lists. These are a few of them.
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful Visual Studio Code packages and resources.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+
+## Development Tools
+
+- [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ## Containers
 
@@ -62,4 +67,4 @@ Additional thanks goes out to:
 - [jthegedus](https://github.com/jthegedus) for his [awesome-list-template](https://github.com/jthegedus/awesome-list-template)
 - [sindresorhus](https://github.com/sindresorhus) for creating the idea of the [awesome list](https://github.com/sindresorhus/awesome) itself
 
-<!-- markdownlint-disable-file MD033 MD041 -->
+<!-- markdownlint-disable-file MD013 MD033 MD041 -->

@@ -1,0 +1,15 @@
+repos:
+- repo: local
+  hooks:
+  - id: awesome-lint
+    name: Awesome Lint
+    description: Runs awesome-lint on the README.md file
+    language: system
+    entry: npx awesome-lint -q README.md
+    types: [markdown]
+  - id: markdownlint-docker
+    name: Markdown Lint
+    description: Runs markdownlint-cli in a docker container
+    language: docker_image
+    entry: ghcr.io/igorshubovych/markdownlint-cli
+    types: [markdown]
