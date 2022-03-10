@@ -21,8 +21,9 @@ An awesome list of things I like and have found useful
 ## Contents
 <!--lint disable double-link -->
 - [Awesome Lists](#awesome-lists)
-- [Development Tools](#development-tools)
 - [Containers](#containers)
+- [Development Tools](#development-tools)
+- [Open Source Best Practices](#open-source-best-practices)
 - [Software Supply Chain Security](#software-supply-chain-security)
 - [Contributors ✨](#contributors-)
 <!--lint enable double-link -->
@@ -36,16 +37,21 @@ There are many great awesome lists. These are a few of them.
 - [Awesome VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful Visual Studio Code packages and resources.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 
-## Development Tools
-
-- [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
-
 ## Containers
 
 - [Hadolint](https://github.com/hadolint/hadolint) - A smarter Dockerfile linter that helps you build [best practice](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices) Docker images.
 - [Microsoft Container Tagging Recommendations](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-image-tag-version) - Recommendations on container tags from Microsoft.
 - [OCI Container Annotations](https://github.com/opencontainers/image-spec/blob/main/annotations.md) - A list of container annotations (labels) recommended by the [Open Container Initiative](https://opencontainers.org/).
 - [Trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues.
+
+## Development Tools
+
+- [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+## Open Source Best Practices
+
+- [All Contributors](https://allcontributors.org/) - Recognize All Contributors, Including those that don't push code.
+- [Contributor Covenant](https://www.contributor-covenant.org) - A Code of Conduct for Open Source Communities.
 
 ## Software Supply Chain Security
 
