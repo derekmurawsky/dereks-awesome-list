@@ -56,6 +56,16 @@
         "tool",
         "mentoring"
       ]
+    },
+    {
+      "login": "jrdemasi",
+      "name": "Jonathan DeMasi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18518055?v=4",
+      "profile": "https://jthan.io",
+      "contributions": [
+        "tool",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
