@@ -5,7 +5,7 @@
 <!--lint ignore no-dead-urls-->
 # Derek's Awesome List <!-- omit in toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml/badge.svg)](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml/badge.svg)](https://github.com/derekmurawsky/dereks-awesome-list/actions/workflows/lint.yaml) [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 <!-- subtitle -->
 
